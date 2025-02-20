@@ -65,6 +65,4 @@ This project is open-source and free to use for educational purposes.
 ---
 
 💡 **Contributions are welcome!** Feel free to fork, modify, and enhance this project.  
-📩 **For any inquiries, contact:** [Your Email or GitHub Profile]  
-
 🚀 **Happy Coding!**
